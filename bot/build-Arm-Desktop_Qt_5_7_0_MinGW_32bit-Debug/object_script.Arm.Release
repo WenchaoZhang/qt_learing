@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mymainwindow.o
+./release\serialwidget.o
+./release\controlwidget.o
+./release\ballcontrol.o
+./release\barcontrol.o
+./release\opencvwidget.o
+./release\moc_mymainwindow.o
+./release\moc_serialwidget.o
+./release\moc_controlwidget.o
+./release\moc_ballcontrol.o
+./release\moc_barcontrol.o
+./release\moc_opencvwidget.o
+);

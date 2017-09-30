@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mymainwindow.o
+./debug\serialwidget.o
+./debug\controlwidget.o
+./debug\ballcontrol.o
+./debug\barcontrol.o
+./debug\opencvwidget.o
+./debug\moc_mymainwindow.o
+./debug\moc_serialwidget.o
+./debug\moc_controlwidget.o
+./debug\moc_ballcontrol.o
+./debug\moc_barcontrol.o
+./debug\moc_opencvwidget.o
+);
